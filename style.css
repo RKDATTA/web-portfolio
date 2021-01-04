@@ -16,16 +16,17 @@ p{
 }
 
 .half-width{
-    width: 35%;
+    width: 40%;
     float: left;
-    margin-left: 5px;
+    margin-left: 5%;
+    padding-left: 2%;
 }
 .half-width img{
     width: 100%;
 }
 section{
     height: 500px;
-    padding-bottom: 100px;
+    padding-bottom: 150px;
 }
 .top-banner{
     background-image: url("images/top-banner.png");
